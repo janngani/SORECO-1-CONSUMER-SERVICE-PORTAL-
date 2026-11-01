@@ -1,0 +1,8 @@
+{
+  "name": "Soreco-1: Consumer Service Portal",
+  "description": "Imported from GitHub Janry.maligaso@sorsu.edu.ph\n",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
